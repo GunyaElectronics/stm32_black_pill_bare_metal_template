@@ -1,0 +1,9 @@
+VisualGDB
+build
+.vscode
+bin
+mcu.mak
+desktop.ini
+*.old
+*.tmp
+.cache

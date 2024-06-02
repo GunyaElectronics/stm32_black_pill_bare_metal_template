@@ -1,0 +1,3 @@
+*
+!.gitignore
+!stm32_black_pill_bare_metal_template.ioc

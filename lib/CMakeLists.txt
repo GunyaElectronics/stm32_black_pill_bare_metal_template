@@ -1,0 +1,5 @@
+add_compile_options("-Os")
+add_subdirectory (cmsis)
+add_subdirectory (stm32f4_hal)
+add_subdirectory (stm32f411ce)
+add_subdirectory (tools_cm4_gcc)
